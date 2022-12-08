@@ -1,4 +1,2 @@
 # exercicios-python
-Curso Programador Web - Senac
-#
-Professora Amanda Silva
+Curso Programador Web - Senac // Professora Amanda Xavier
